@@ -18,10 +18,10 @@ import lombok.NoArgsConstructor;
 
 
 @Entity
-@Table(name = "PatientDiagnoseEntity")
+@Table(name = "PrisonPatientDiagnoseEntity")
 @Data
 @NoArgsConstructor
-public class PatientDiagnoseEntity implements Serializable {
+public class PrisonPatientDiagnoseEntity implements Serializable {
 
     /**
      * @return the serialVersionUID
@@ -163,6 +163,34 @@ public class PatientDiagnoseEntity implements Serializable {
         this.prescription = prescription;
     }
 
+    /**
+     * @return the commelegalAdvisorComments
+     */
+    public String getCommelegalAdvisorComments() {
+        return commelegalAdvisorComments;
+    }
+
+    /**
+     * @param commelegalAdvisorComments the commelegalAdvisorComments to set
+     */
+    public void setCommelegalAdvisorComments(String commelegalAdvisorComments) {
+        this.commelegalAdvisorComments = commelegalAdvisorComments;
+    }
+
+    /**
+     * @return the policeComments
+     */
+    public String getPoliceComments() {
+        return policeComments;
+    }
+
+    /**
+     * @param policeComments the policeComments to set
+     */
+    public void setPoliceComments(String policeComments) {
+        this.policeComments = policeComments;
+    }
+
     private static long serialVersionUID = 1L;
 
     @Id
@@ -195,4 +223,9 @@ public class PatientDiagnoseEntity implements Serializable {
     @Column(name = "prescription")
     private String prescription;
 
+    @Column(name = "commelegalAdvisorComments")
+    private String commelegalAdvisorComments;
+
+    @Column(name = "policeComments")
+    private String policeComments;
 }
