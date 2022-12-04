@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace min="216" pref="216" max="-2" attributes="0"/>
+              <Component id="patientIdLb" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="235" pref="235" max="-2" attributes="0"/>
+              <Component id="patientCityLb" min="-2" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="281" pref="281" max="-2" attributes="0"/>
+              <Component id="patientAgeTxt" min="-2" pref="81" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="281" pref="281" max="-2" attributes="0"/>
+              <Component id="patientAddressTxt" min="-2" pref="81" max="-2" attributes="0"/>
+              <EmptySpace min="173" pref="173" max="-2" attributes="0"/>
+              <Component id="jScrollPane1" min="-2" pref="121" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="535" pref="535" max="-2" attributes="0"/>
+              <Component id="patientCityTxt" min="-2" pref="107" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="224" pref="224" max="-2" attributes="0"/>
+              <Component id="patientAddressLb" min="-2" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="491" pref="491" max="-2" attributes="0"/>
+              <Component id="patientStateLb" min="-2" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="236" pref="236" max="-2" attributes="0"/>
+              <Component id="patientNameLb" min="-2" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="241" pref="241" max="-2" attributes="0"/>
+              <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="480" pref="480" max="-2" attributes="0"/>
+              <Component id="patientZipcodeLb" min="-2" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="535" pref="535" max="-2" attributes="0"/>
+              <Component id="patientZipcodeTxt" min="-2" pref="107" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="535" pref="535" max="-2" attributes="0"/>
+              <Component id="patientStateTxt" min="-2" pref="107" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="281" pref="281" max="-2" attributes="0"/>
+              <Component id="patientIdTxt" min="-2" pref="81" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="281" pref="281" max="-2" attributes="0"/>
+              <Component id="patientGenderCombo" min="-2" pref="81" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="228" pref="228" max="-2" attributes="0"/>
+              <Component id="patientGenderLb" min="-2" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="415" pref="415" max="-2" attributes="0"/>
+              <Component id="SaveBtn" min="-2" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="281" pref="281" max="-2" attributes="0"/>
+              <Component id="patientNameTxt" min="-2" pref="81" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="477" pref="477" max="-2" attributes="0"/>
+              <Component id="concernLb" min="-2" max="-2" attributes="0"/>
+          </Group>
+          <Component id="mainImage1" min="-2" pref="1280" max="-2" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace min="51" pref="51" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="patientIdLb" min="-2" max="-2" attributes="0"/>
+                  <Component id="patientCityLb" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="94" pref="94" max="-2" attributes="0"/>
+              <Component id="patientAgeTxt" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="34" pref="34" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="69" pref="69" max="-2" attributes="0"/>
+                      <Component id="patientAddressTxt" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="jScrollPane1" min="-2" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="48" pref="48" max="-2" attributes="0"/>
+              <Component id="patientCityTxt" min="-2" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="285" pref="285" max="-2" attributes="0"/>
+              <Component id="patientAddressLb" min="-2" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="106" pref="106" max="-2" attributes="0"/>
+              <Component id="patientStateLb" min="-2" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="106" pref="106" max="-2" attributes="0"/>
+              <Component id="patientNameLb" min="-2" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="162" pref="162" max="-2" attributes="0"/>
+              <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="162" pref="162" max="-2" attributes="0"/>
+              <Component id="patientZipcodeLb" min="-2" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="159" pref="159" max="-2" attributes="0"/>
+              <Component id="patientZipcodeTxt" min="-2" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="103" pref="103" max="-2" attributes="0"/>
+              <Component id="patientStateTxt" min="-2" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="48" pref="48" max="-2" attributes="0"/>
+              <Component id="patientIdTxt" min="-2" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="221" pref="221" max="-2" attributes="0"/>
+              <Component id="patientGenderCombo" min="-2" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="224" pref="224" max="-2" attributes="0"/>
+              <Component id="patientGenderLb" min="-2" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="330" pref="330" max="-2" attributes="0"/>
+              <Component id="SaveBtn" min="-2" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="103" pref="103" max="-2" attributes="0"/>
+              <Component id="patientNameTxt" min="-2" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="224" pref="224" max="-2" attributes="0"/>
+              <Component id="concernLb" min="-2" max="-2" attributes="0"/>
+          </Group>
+          <Component id="mainImage1" min="-2" pref="720" max="-2" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JTextField" name="patientIdTxt">
+    </Component>
+    <Component class="javax.swing.JTextField" name="patientNameTxt">
+    </Component>
+    <Component class="javax.swing.JTextField" name="patientAgeTxt">
+    </Component>
+    <Component class="javax.swing.JComboBox" name="patientGenderCombo">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="0"/>
+        </Property>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JTextField" name="patientZipcodeTxt">
+    </Component>
+    <Component class="javax.swing.JTextField" name="patientAddressTxt">
+    </Component>
+    <Component class="javax.swing.JTextField" name="patientCityTxt">
+    </Component>
+    <Component class="javax.swing.JTextField" name="patientStateTxt">
+    </Component>
+    <Component class="javax.swing.JLabel" name="patientIdLb">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Patient Id"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="patientNameLb">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Name"/>
+      </Properties>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea1">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value=" Age"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="patientGenderLb">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Gender"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="patientAddressLb">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Address"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="patientCityLb">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="City"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="patientStateLb">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="State"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="patientZipcodeLb">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Zipcode"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="concernLb">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Concern"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="SaveBtn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Save"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="mainImage1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="40" green="2e" red="29" type="rgb"/>
+        </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/META-INF/Mentally Healthy Communities .jpg"/>
+        </Property>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+            <LineBorder thickness="2">
+              <Color PropertyName="color" blue="aa" green="aa" red="aa" type="rgb"/>
+            </LineBorder>
+          </Border>
+        </Property>
+        <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[728, 410]"/>
+        </Property>
+        <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[728, 410]"/>
+        </Property>
+        <Property name="opaque" type="boolean" value="true"/>
+        <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[728, 410]"/>
+        </Property>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
