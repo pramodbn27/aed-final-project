@@ -175,6 +175,7 @@ public class JusticeEntAdminJFrame extends javax.swing.JFrame {
         /* Create and display the form */
     }
 
+    //added dependencies
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton closeBtn;
     private javax.swing.JButton jailAdminBtn;
