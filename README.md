@@ -12,13 +12,13 @@
 
 An end-to-end mental health care management system that will help mental health patients in following two different flows-:
 
-1) **First flow:
+1) **First flow**:
 
  - The **patient** will first be allotted to a **counselor**, who will identify whether the patient has a mental health problem and if found to have one, will send the patient to the **Doctor**.
  - The **doctor** after diagonising the patient, will send him/her to the **Pharmacy** for taking medicines.
  - If the doctor finds that patient is suffering from a severe mental health problem, he/she will send the patient to **Rehab**.
  
-2) **Second flow:
+2) **Second flow**:
 
  - This flow covers the case wherein a mental health patient is sent to jail after committing a crime.
  - Here, the **Prison Admin** will notice if a person admitted in the jail is suffering from a mental health issue by his/her daily activities. If he/she finds one, will send the **prisoner patient** to **counselor**.
