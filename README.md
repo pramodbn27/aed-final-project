@@ -1,8 +1,8 @@
 # AED Final Project
 
-#**MentCare Management System :-
+# MentCare Management System :-
 
-###Team Members
+### Team Members
 
 1. Kashish Desai
 2. Ajit Patil
