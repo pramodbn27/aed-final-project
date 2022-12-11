@@ -27,5 +27,12 @@ An end-to-end mental health care management system that will help mental health 
  - If the **Legal Advisor** finds doctor's request genuine, he/she will give an order to the **Police** to release prisoner patient from the jail.
  - The Prisoner Patient is now sent to a **Psychic Ward** for treatment.
 
-### Design
+There will be 4 enterprises, 9 organizations and 4 admins in our application.
+Enterprises will be- Patient, Hospital, Justice and Psychology.
+Organizations will be- Patient, Counselor, Doctor, Pharmacy, Rehab, Prison, Legal Advisor, Police and Psychic Ward.
+Admins will be- System Admin, Hospital Admin, Justice Admin and Psychology Admin.
+
+**System Admin** will have access to perform **CRUD** operations on patients and users database.
+
+
 <img src="https://user-images.githubusercontent.com/114458145/206891256-36f07cf0-f138-43a5-a968-7a2f94d37ab6.jpg" width="50%" height="50%">
