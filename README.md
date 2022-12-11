@@ -28,4 +28,4 @@ An end-to-end mental health care management system that will help mental health 
  - The Prisoner Patient is now sent to a **Psychic Ward** for treatment.
 
 
-![Diagram v3](https://user-images.githubusercontent.com/114458145/206891256-36f07cf0-f138-43a5-a968-7a2f94d37ab6.jpg)
+<img src="https://user-images.githubusercontent.com/114458145/206891256-36f07cf0-f138-43a5-a968-7a2f94d37ab6.jpg" width="50%" height="50%">
