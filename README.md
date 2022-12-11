@@ -26,3 +26,6 @@ An end-to-end mental health care management system that will help mental health 
  - If the **doctor** finds that prisoner patient is suffering from a sever mental health problem, he/she will reach out to **Legal Advisor** and explain him the issue and ask him to allow the prisoner patient be released from the jail and be sent to a Psychic Ward for treatment.
  - If the **Legal Advisor** finds doctor's request genuine, he/she will give an order to the **Police** to release prisoner patient from the jail.
  - The Prisoner Patient is now sent to a **Psychic Ward** for treatment.
+
+
+![Diagram v3](https://user-images.githubusercontent.com/114458145/206891256-36f07cf0-f138-43a5-a968-7a2f94d37ab6.jpg)
