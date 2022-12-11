@@ -27,5 +27,5 @@ An end-to-end mental health care management system that will help mental health 
  - If the **Legal Advisor** finds doctor's request genuine, he/she will give an order to the **Police** to release prisoner patient from the jail.
  - The Prisoner Patient is now sent to a **Psychic Ward** for treatment.
 
-
+### Design
 <img src="https://user-images.githubusercontent.com/114458145/206891256-36f07cf0-f138-43a5-a968-7a2f94d37ab6.jpg" width="50%" height="50%">
