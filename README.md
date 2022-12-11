@@ -34,9 +34,10 @@ Admins will be- System Admin, Hospital Admin, Justice Admin and Psychology Admin
 
 **System Admin** will have access to perform **CRUD** operations on patients and users database.
 
-
+### Design
 <img src="https://user-images.githubusercontent.com/114458145/206891256-36f07cf0-f138-43a5-a968-7a2f94d37ab6.jpg" width="50%" height="50%">
 
+### UML Diagram
 <img src="https://user-images.githubusercontent.com/114458145/206892607-81648bfa-c481-4d04-8ec0-0ad4c457687c.jpg" width="50%" height="80%">
 
 
