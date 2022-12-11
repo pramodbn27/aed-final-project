@@ -34,6 +34,10 @@ Admins will be- System Admin, Hospital Admin, Justice Admin and Psychology Admin
 
 **System Admin** will have access to perform **CRUD** operations on patients and users database.
 
+**Special features** we have included in this application are:
+1) **Email Notification** which will be sent to the patient at every stage of his workflow, and
+2) **Webcam** which will capture the patient's photo.
+
 ### Design
 <img src="https://user-images.githubusercontent.com/114458145/206891256-36f07cf0-f138-43a5-a968-7a2f94d37ab6.jpg" width="50%" height="50%">
 
