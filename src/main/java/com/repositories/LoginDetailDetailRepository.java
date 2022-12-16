@@ -15,6 +15,8 @@ import org.springframework.stereotype.Repository;
 @Repository
 public interface LoginDetailDetailRepository extends JpaRepository<LoginDetails, Integer> {
 
+//queries added
+
     @Query(value = "SELECT ep FROM LoginDetails ep WHERE ep.id=:id")
     public LoginDetails getDetailById(@Param("id") Integer id);
 
